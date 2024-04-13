@@ -13,8 +13,6 @@
 
 - 🌱 I’m currently learning **React & Django**
 
-- 💬 Ask me about **Our next venture**
-
 - 📫 How to reach me **j.andresgonzalez1010@gmail.com**
 
 - ⚡ Interests **Reading|Fitness|Gaming|Skating|Guitar**
