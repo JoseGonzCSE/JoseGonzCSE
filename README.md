@@ -1,21 +1,20 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?text=Welcome!😎&animation=fadeIn&type=waving&color=gradient&height=100"/>
 </p>
-<h1 align="center">Pleasure, Name's Andres<picture>
+<h1 align="center">Hello, Name's Andres<picture>
   <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f525/512.webp" type="image/webp">
   <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f525/512.gif" alt="🔥" width="32" height="32">
 </picture></h1>
-<h3 align="center">Your next Software Engineer 💻</h3>
 <img align="right" alt="gif" width="400" src="https://i.pinimg.com/originals/84/0a/c1/840ac1a5eef2c7abcaca3e4757db48e9.gif">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=josegonzcse&label=Profile%20views&color=14f594&style=flat" alt="josegonzcse" /> </p>
 
-- 🌱 I’m currently learning **React & Django**
+- 🌱 I’m currently learning **React**
 
 - 📫 How to reach me **j.andresgonzalez1010@gmail.com**
 
-- ⚡ Interests **Reading|Fitness|Gaming|Skating|Guitar**
+- ⚡ Interests **Health|Acedemics|Infrastructure|FullStack|Python**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
